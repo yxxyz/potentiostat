@@ -1,6 +1,6 @@
 # potentiostat
 
-A new Flutter project.
+Flutter application for a single-channel potentiostat system supporting CV, CA, SWV, DPV, LSV and EIS.
 
 ## Getting Started
 
